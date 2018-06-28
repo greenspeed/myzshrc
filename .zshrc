@@ -1,19 +1,19 @@
 # Salesforce UISB environment variables
 export SF_UISB_URL="https://test.salesforce.com"
 export SF_UISB_USER="gelin@propsgint.com.uidevsb2"
-export SF_UISB_PASSWORD="Abcd1982"
+export SF_UISB_PASSWORD=""
 export SF_UISB_TOKEN="sgLfalA2Qafa0APUSdrBoAyL"
 
 # Salesforce Test environment variables
 export SF_TEST_URL="https://test.salesforce.com"
 export SF_TEST_USER="gelin@propsgint.com.test"
-export SF_TEST_PASSWORD="Abcd1982"
+export SF_TEST_PASSWORD=""
 export SF_TEST_TOKEN="g08sIWls8Z2OXPH5iDGLoDxd"
 
 # Salesforce UAT environment variables
 export SF_UAT_URL="https://test.salesforce.com"
 export SF_UAT_USER="gelin@propsgint.com.uat1"
-export SF_UAT_PASSWORD="Abcd1982"
+export SF_UAT_PASSWORD=""
 export SF_UAT_TOKEN="PH2Lq901bLaupelAlLFd9qVfu"
 
 
